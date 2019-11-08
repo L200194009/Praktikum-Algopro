@@ -1,0 +1,11 @@
+NIM = "L200194009"
+Nama = "Nadia Zerlinda Taufik Putri"
+TTL = "Tulungagung, 23-04-2001"
+JenisKelamin = "Perempuan"
+Alamat = "Dsn. Krandegan Rt 05/Rw 02 Kalidawir"
+Agama = "Islam"
+Pekerjaan = "Pelajar/Mahasiswa"
+StatusPerkawinan = "Belum Kawin"
+Kewarganegaraan = "WNI"
+Gol_Darah = "O"
+
